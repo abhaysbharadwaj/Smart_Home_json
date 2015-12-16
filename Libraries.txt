@@ -1,0 +1,9 @@
+to get the libraries used in this code, go to the following links and download them and place them in your arduino library folder.
+
+you must include the "ArduinoJson", "DHT" and "SoftwareSerial"  libraries in arduino's library directory:
+(C:\Program Files (x86)\Arduino\libraries)  (or ...\Arduino\libraries)
+
+you can download the libraries from:
+ArduinoJson: https://github.com/bblanchon/ArduinoJson
+SoftwareSerial: https://github.com/arduino/Arduino/tree/master/hardware/arduino/avr/libraries/SoftwareSerial
+DHT: https://github.com/adafruit/DHT-sensor-library
